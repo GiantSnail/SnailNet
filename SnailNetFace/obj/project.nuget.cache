@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWQS9uQKA9aLfcwp9aPct2whY0DcjOkoXQo5Xz6yfU8O3toItmJJict5DxtBJaoP2iHuxKXSalWGeznzDKxZZg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\CSharp\\SnailNet\\SnailNetFace\\SnailNetFace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\htwang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

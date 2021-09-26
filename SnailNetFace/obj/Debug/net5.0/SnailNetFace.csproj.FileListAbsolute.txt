@@ -1,0 +1,16 @@
+E:\Projects\CSharp\SnailNet\SnailNetFace\bin\Debug\net5.0\SnailNetFace.exe
+E:\Projects\CSharp\SnailNet\SnailNetFace\bin\Debug\net5.0\SnailNetFace.deps.json
+E:\Projects\CSharp\SnailNet\SnailNetFace\bin\Debug\net5.0\SnailNetFace.runtimeconfig.json
+E:\Projects\CSharp\SnailNet\SnailNetFace\bin\Debug\net5.0\SnailNetFace.runtimeconfig.dev.json
+E:\Projects\CSharp\SnailNet\SnailNetFace\bin\Debug\net5.0\SnailNetFace.dll
+E:\Projects\CSharp\SnailNet\SnailNetFace\bin\Debug\net5.0\ref\SnailNetFace.dll
+E:\Projects\CSharp\SnailNet\SnailNetFace\bin\Debug\net5.0\SnailNetFace.pdb
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.csproj.AssemblyReference.cache
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.AssemblyInfoInputs.cache
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.AssemblyInfo.cs
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.dll
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\ref\SnailNetFace.dll
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.pdb
+E:\Projects\CSharp\SnailNet\SnailNetFace\obj\Debug\net5.0\SnailNetFace.genruntimeconfig.cache
